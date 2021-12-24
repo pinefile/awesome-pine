@@ -8,6 +8,7 @@ A curated list of awesome things related to [Pine](https://pinefile.github.io/).
 - [Plugins](#plugins)
 - [Runners](#runners)
 - [Projects Using Pine](#projects-using-pine)
+- [Resources](#resources)
 
 ### Tasks
 
