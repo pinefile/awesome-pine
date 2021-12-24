@@ -14,6 +14,11 @@ A curated list of awesome things related to <a href='https://github.com/pinefile
 
 Use the "Table of Contents" menu on the top-left corner to explore the list.
 
+### Resources
+
+- [Pine documentation](https://pinefile.github.io/)
+- [Pine examples](https://github.com/pinefile/examples)
+
 ### Tasks
 
 TBA
@@ -32,12 +37,6 @@ TBA
 
 - [Personnummer](https://github.com/personnummer/js) - JavaScript package to validate, format and determine sex and age from Swedish personal identity numbers. 
 - [Personnummer Generate](https://github.com/personnummer/js-generate) - JavaScript package to generate Swedish personal identity numbers. 
-
-
-### Resources
-
-- [Pine documentation](https://pinefile.github.io/)
-- [Pine examples](https://github.com/pinefile/examples)
 
 ## Contribute
 
