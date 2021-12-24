@@ -41,7 +41,3 @@ TBA
 ## Contribute
 
 Contributions are appreciated!
-
-## License
-
-[MIT](/LICENSE)
