@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/pinefile/pine">
+    <img src="https://avatars.githubusercontent.com/u/70938295?s=200&v=4" width="100px" height="100px" />
+  </a>
+</div>
+
 <h2 align='center'>Awesome Pine</h2>
 
 <p align='center'>
