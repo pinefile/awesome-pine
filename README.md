@@ -1,14 +1,16 @@
-# awesome-pine
+<h2 align='center'>Awesome Pine</h2>
 
-A curated list of awesome things related to [Pine](https://pinefile.github.io/).
+<p align='center'>
+A curated list of awesome things related to <a href='https://github.com/pinefile/pine'>Pine</a>
+<br><br>
 
-## Contents
+<a href='https://github.com/sindresorhus/awesome'>
+<img src='https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg' alt='Awesome'>
+</a>
 
-- [Tasks](#tasks)
-- [Plugins](#plugins)
-- [Runners](#runners)
-- [Projects Using Pine](#projects-using-pine)
-- [Resources](#resources)
+## Table of Contents
+
+Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 ### Tasks
 
